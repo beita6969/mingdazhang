@@ -38,7 +38,7 @@ Efficient fine‑tuning of LLMs for the **medical vertical**.
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 [![Repo](https://img.shields.io/badge/Repo-DeepSeek--R1--Distill--Qwen--32B--Medical--Fine--tune-black)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 
-**OTHERS**
+**Others**
 
 - ICASSP 2026 reviewer
 - University-level scholarship
@@ -46,22 +46,22 @@ Efficient fine‑tuning of LLMs for the **medical vertical**.
 
 ## Papers
 
-1. [“Unified Multimodal Coherent Field: Synchronous Semantic–Spatial–Vision Fusion for Brain Tumor Segmentation”](../paper/1.pdf) *(ICASSP 2026, CCF-B)* — Proposed a UMCF method that synchronously fuses visual, semantic and spatial information in a 3D latent space. (**Mingda Zhang**, Yuyang Zheng, Ruixiang Tang, Jingru Qiu, Haiyan Ding) [PDF](../paper/1.pdf)
+1. [“Unified Multimodal Coherent Field: Synchronous Semantic–Spatial–Vision Fusion for Brain Tumor Segmentation”](../paper/1.pdf) (**ICASSP 2026, CCF-B**) — Proposed a UMCF method that synchronously fuses visual, semantic and spatial information in a 3D latent space. (**Mingda Zhang**, Yuyang Zheng, Ruixiang Tang, Jingru Qiu, Haiyan Ding) [PDF](../paper/1.pdf)
 
-2. [“DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation”](../paper/2.pdf) *(ICASSP 2026, CCF-B)* — Proposed a feature space decoupling strategy that addresses the segmentation fragmentation problem caused by forced feature coupling. (**Mingda Zhang**, Xun Ye, Ruixiang Tang, Jianglong Qin) [PDF](../paper/2.pdf)
+2. [“DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation”](../paper/2.pdf) (**ICASSP 2026, CCF-B**) — Proposed a feature space decoupling strategy that addresses the segmentation fragmentation problem caused by forced feature coupling. (**Mingda Zhang**, Xun Ye, Ruixiang Tang, Jianglong Qin) [PDF](../paper/2.pdf)
 
-3. [“Multimodal Fusion at Three Tiers: Physics-Driven Data Generation and Vision-Language Guidance for Brain Tumor Segmentation”](../paper/7.pdf) *(*Array*, JCR Q1)* — Bidirectional interaction between VLM models and deep learning for brain tumor recognition. (**Mingda Zhang**, Kaiwen Pan) [PDF](../paper/7.pdf)
+3. [“Multimodal Fusion at Three Tiers: Physics-Driven Data Generation and Vision-Language Guidance for Brain Tumor Segmentation”](../paper/7.pdf) (**Array, JCR Q1**) — Bidirectional interaction between VLM models and deep learning for brain tumor recognition. (**Mingda Zhang**, Kaiwen Pan) [PDF](../paper/7.pdf)
 
-4. [“The Consistency-Acceptability Divergence of LLMs in Judicial Decision-Making: Task and Stakeholder Dimensions”](../paper/3.pdf) *(*Humanities & Social Sciences Communications*, JCR Q1 / CAS Q1)* — Proposing the concept of Consistency-Acceptability Divergence to reveal social phenomena in current LLMs. (**Mingda Zhang**, Xu Qing) [PDF](../paper/3.pdf)
+4. [“The Consistency-Acceptability Divergence of LLMs in Judicial Decision-Making: Task and Stakeholder Dimensions”](../paper/3.pdf) (**Humanities & Social Sciences Communications, JCR Q1 / CAS Q1**) — Proposing the concept of Consistency-Acceptability Divergence to reveal social phenomena in current LLMs. (**Mingda Zhang**, Xu Qing) [PDF](../paper/3.pdf)
 
-5. [“Knowledge-Guided Brain Tumor Segmentation via Synchronized Visual-Semantic-Topological Prior Fusion”](../paper/4.pdf) *(*BMC Medical Imaging*, JCR Q1)* — Integrating VLM models and deep learning for brain tumor recognition. (**Mingda Zhang** — **solo** author) [PDF](../paper/Array.pdf)
+5. [“Knowledge-Guided Brain Tumor Segmentation via Synchronized Visual-Semantic-Topological Prior Fusion”](../paper/4.pdf) (**BMC Medical Imaging, JCR Q1**) — Integrating VLM models and deep learning for brain tumor recognition. (**Mingda Zhang** — **solo** author) [PDF](../paper/Array.pdf)
 
-6. [“An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis”](../paper/6.pdf) *(*Scientific Reports*, JCR Q1)* — Combining prompt engineering with knowledge graphs for legal analysis. (**Mingda Zhang**, Na Zhao, Jianglong Qin, Qing Xu, Kaiwen Pan, Ting Luo) [PDF](../paper/6.pdf)
+6. [“An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis”](../paper/6.pdf) (**Scientific Reports, JCR Q1**) — Combining prompt engineering with knowledge graphs for legal analysis. (**Mingda Zhang**, Na Zhao, Jianglong Qin, Qing Xu, Kaiwen Pan, Ting Luo) [PDF](../paper/6.pdf)
 
-7. [“A Multi-granularity Sparse Concept Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis”](../paper/5.pdf) *(*iScience*, JCR Q1)* — Addressing knowledge deficiency and algorithms to LLM in rare disease diagnosis. (**Mingda Zhang**, Na Zhao, Jianglong Qin, Guoyu Ye, Ruixiang Tang) [PDF](../paper/5.pdf)
+7. [“A Multi-granularity Sparse Concept Activation and Hierarchical Knowledge Graph Fusion Framework for Rare Disease Diagnosis”](../paper/5.pdf) (**iScience, JCR Q1**) — Addressing knowledge deficiency and algorithms to LLM in rare disease diagnosis. (**Mingda Zhang**, Na Zhao, Jianglong Qin, Guoyu Ye, Ruixiang Tang) [PDF](../paper/5.pdf)
 
-8. [“A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1”](../paper/8.pdf) *(CCF-AI-2025)* — Designing a lightweight LLM architecture for the bioinformatics field. (**Mingda Zhang**, Jianglong Qin) [PDF](../paper/8.pdf)
+8. [“A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1”](../paper/8.pdf) (**CCF-AI-2025**) — Designing a lightweight LLM architecture for the bioinformatics field. (**Mingda Zhang**, Jianglong Qin) [PDF](../paper/8.pdf)
 
-9. [“ELPG-DTFS: Prior-Guided Adaptive Time-Frequency Graph Neural Network for EEG Depression Diagnosis”](../paper/9.pdf) *(ICASSP 2026, CCF-B)* — Modeling EEG dynamic connectivity through channel-band attention, learnable connections and residual prior integration. (Jingru Qiu, Jiale Liang, Xuanhan Fan, **Mingda Zhang**, Zhenli He) [PDF](../paper/9.pdf)
+9. [“ELPG-DTFS: Prior-Guided Adaptive Time-Frequency Graph Neural Network for EEG Depression Diagnosis”](../paper/9.pdf) (**ICASSP 2026, CCF-B**) — Modeling EEG dynamic connectivity through channel-band attention, learnable connections and residual prior integration. (Jingru Qiu, Jiale Liang, Xuanhan Fan, **Mingda Zhang**, Zhenli He) [PDF](../paper/9.pdf)
 
-10. [“A Semantic Segmentation Algorithm for Pleural Effusion Based on DBIF-AUNet”](../paper/10.pdf) *(*Computer Technology and Development*)* — Semantic segmentation of pleural effusion CT is achieved through dual-domain feature disentanglement and multi-branch interactive attention. (Ruixiang Tang, **Mingda Zhang**, Jianglong Qin, Yan Song, Yi Wu, Wei Wu) [PDF](../paper/10.pdf)
+10. [“A Semantic Segmentation Algorithm for Pleural Effusion Based on DBIF-AUNet”](../paper/10.pdf) (**Computer Technology and Development**) — Semantic segmentation of pleural effusion CT is achieved through dual-domain feature disentanglement and multi-branch interactive attention. (Ruixiang Tang, **Mingda Zhang**, Jianglong Qin, Yan Song, Yi Wu, Wei Wu) [PDF](../paper/10.pdf)
