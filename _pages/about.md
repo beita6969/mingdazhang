@@ -11,13 +11,13 @@ Hello! I'm **Mingda Zhang**, an undergraduate at the School of Software, Yunnan 
 
 I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), and **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), whose guidance has helped me develop a systematic, problem‑driven approach to AI research.
 
-## Education and Internships
+## 🎓 Education and Internships
 
 - **Yunnan University**, School of Software — B.Eng. (2022.9 – 2026.6)
 - **China Telecom**, Chongqing Branch — Technical Engineer (2024.7 – 2024.8)
 - **The Chinese University of Hong Kong**, Shenzhen — Research Assistant (2025.10 – 2026.4)
 
-## Research Highlights
+## 🔬 Research Highlights
 
 **Agentic Workflow Orchestration**
 
@@ -43,13 +43,13 @@ Efficient fine‑tuning of LLMs for the **medical vertical**.
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 [![Repo](https://img.shields.io/badge/Repo-DeepSeek--R1--Distill--Qwen--32B--Medical--Fine--tune-black)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 
-**Others**
+## 💼 Others
 
 - ICASSP 2026 reviewer
 - University-level scholarship
-- **National Gold Award**, “New Humanities and Social Sciences Practice and Innovation Competition for College Students”
+- **National Gold Award**, "New Humanities and Social Sciences Practice and Innovation Competition for College Students"
 
-## Papers
+## 📚 Papers
 
 1. [“Unified Multimodal Coherent Field: Synchronous Semantic–Spatial–Vision Fusion for Brain Tumor Segmentation”](../paper/1.pdf) (**ICASSP 2026, CCF-B**) — Proposed a UMCF method that synchronously fuses visual, semantic and spatial information in a 3D latent space. (**Mingda Zhang**, Yuyang Zheng, Ruixiang Tang, Jingru Qiu, Haiyan Ding) [PDF](../paper/1.pdf)
 
