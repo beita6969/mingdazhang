@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m **Mingda Zhang**, an undergraduate at the School of Software, Yunnan University (2022.9–2026.6). I work on **vision–language models**, **multimodality**, **NLP**, and **computer vision**, aiming to tightly integrate language and visual signals for real‑world applications in medical imaging and legal analysis.
+Hello! I'm **Mingda Zhang**, an undergraduate at the School of Software, Yunnan University (2022.9–2026.6). My research interests include **Multimodal Learning**, **AI Agent**, and **AI4Science**, and their synergistic combination for solving real‑world problems with AI, which can be divided as follows:
+- Multimodal Information Fusion
+- AI Agent & Multi-agent Systems
+- AI4Science (Medicine, Law, and Bioinformatics)
 
 I’m fortunate to be mentored by **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), and **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), whose guidance has helped me develop a systematic, problem‑driven approach to AI research.
 
