@@ -22,7 +22,7 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 **Agentic Workflow Orchestration**
 
 - Collaborated with **Nanyang Technological University (NTU)** and **National University of Singapore (NUS)** on *"FlowSteer: Interactive Agentic Workflow Orchestration via End-to-End Reinforcement Learning"*, proposing an end-to-end RL framework for automated workflow orchestration through multi-turn agent–environment interaction.
-  [![GitHub](https://img.shields.io/badge/Repo-FlowSteer-black)](https://github.com/beita6969/FlowSteer)
+  [![Homepage](https://img.shields.io/badge/Homepage-FlowSteer-blue)](http://flowsteer.org/)
 
 **Medical Image Analysis & Segmentation**
 
