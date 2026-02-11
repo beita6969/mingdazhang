@@ -154,7 +154,7 @@
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
       {% endif %}
       {% if author.wechat %}
-        <li><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat: {{ author.wechat }}</li>
+        <li><a href="javascript:void(0)" onclick="var s=this.querySelector('span');s.textContent=s.textContent?'':'{{ author.wechat }}'"><i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat<span></span></a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w icon-pad-right" aria-hidden="true"></i>Wikipedia</a></li>
