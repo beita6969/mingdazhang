@@ -12,7 +12,7 @@ title                    : "Zhang Mingda's homepage"
 title_separator          : "-"
 name                     : &name "Zhang Mingda"
 description              : &description "Zhang Mingda's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mingdazhang.com
+url                      : http://mingdazhang.com
 baseurl                  : ""
 repository               : "beita6969/zhangmingda"
 
