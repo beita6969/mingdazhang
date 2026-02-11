@@ -38,11 +38,11 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 
 **GitHub — Open Source Projects**
 
-<small>Efficient fine‑tuning of LLMs for the medical vertical.</small><br>
+Efficient fine‑tuning of LLMs for the medical vertical.<br>
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 [![Repo](https://img.shields.io/badge/Repo-DeepSeek--R1--Distill--Qwen--32B--Medical--Fine--tune-black)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 
-<small>FlowSteer — Interactive Agentic Workflow Orchestration via End-to-End RL.</small><br>
+FlowSteer — Interactive Agentic Workflow Orchestration via End-to-End RL.<br>
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/FlowSteer?style=social)](https://github.com/beita6969/FlowSteer)
 [![Repo](https://img.shields.io/badge/Repo-FlowSteer-black)](https://github.com/beita6969/FlowSteer)
 
