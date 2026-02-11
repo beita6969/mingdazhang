@@ -36,12 +36,17 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 - Sep 2025: **National Social Science Fund of China (NSSFC)** project officially approved —  
   *“An Empirical Study on the Mechanism of Judicial Justice in the Digital‑Intelligence Era under Socialism with Chinese Characteristics.”* - Number:25CFX009
 
-**GitHub — 160★ Project**
+**GitHub — Open Source Projects**
 
 Efficient fine‑tuning of LLMs for the **medical vertical**.
 
 [![GitHub Stars](https://img.shields.io/github/stars/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune?style=social)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
 [![Repo](https://img.shields.io/badge/Repo-DeepSeek--R1--Distill--Qwen--32B--Medical--Fine--tune-black)](https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune)
+
+**FlowSteer** — Interactive Agentic Workflow Orchestration via End-to-End RL.
+
+[![GitHub Stars](https://img.shields.io/github/stars/beita6969/FlowSteer?style=social)](https://github.com/beita6969/FlowSteer)
+[![Repo](https://img.shields.io/badge/Repo-FlowSteer-black)](https://github.com/beita6969/FlowSteer)
 
 ## 💼 Others
 
