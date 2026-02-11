@@ -54,11 +54,11 @@ FlowSteer — Interactive Agentic Workflow Orchestration via End-to-End RL.<br>
 
 ## 📚 Papers
 
-1. ["FlowSteer: Interactive Agentic Workflow Orchestration via End-to-End Reinforcement Learning"](../paper/11.pdf) (**ICML 2026, CCF-A**) — An end-to-end RL framework for automated workflow orchestration through multi-turn agent–canvas interaction with diversity-constrained rewards. (**Mingda Zhang**\*, Haoran Luo\*, Tiesunlong Shen, Qika Lin, Xiaoying Tang, Rui Mao, Erik Cambria) [PDF](../paper/11.pdf)
+1. ["FlowSteer: Interactive Agentic Workflow Orchestration via End-to-End Reinforcement Learning"](../paper/11.pdf) (**ICML 2026**) — An end-to-end RL framework for automated workflow orchestration through multi-turn agent–canvas interaction with diversity-constrained rewards. (**Mingda Zhang**\*, Haoran Luo\*, Tiesunlong Shen, Qika Lin, Xiaoying Tang, Rui Mao, Erik Cambria) [PDF](../paper/11.pdf)
 
-2. ["Unified Multimodal Coherent Field: Synchronous Semantic–Spatial–Vision Fusion for Brain Tumor Segmentation"](../paper/1.pdf) (**ICASSP 2026, CCF-B**) — Proposed a UMCF method that synchronously fuses visual, semantic and spatial information in a 3D latent space. (**Mingda Zhang**, Yuyang Zheng, Ruixiang Tang, Jingru Qiu, Haiyan Ding) [PDF](../paper/1.pdf)
+2. ["Unified Multimodal Coherent Field: Synchronous Semantic–Spatial–Vision Fusion for Brain Tumor Segmentation"](../paper/1.pdf) (**ICASSP 2026**) — Proposed a UMCF method that synchronously fuses visual, semantic and spatial information in a 3D latent space. (**Mingda Zhang**, Yuyang Zheng, Ruixiang Tang, Jingru Qiu, Haiyan Ding) [PDF](../paper/1.pdf)
 
-3. ["DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation"](../paper/2.pdf) (**ICASSP 2026, CCF-B**) — Proposed a feature space decoupling strategy that addresses the segmentation fragmentation problem caused by forced feature coupling. (**Mingda Zhang**, Xun Ye, Ruixiang Tang, Jianglong Qin) [PDF](../paper/2.pdf)
+3. ["DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation"](../paper/2.pdf) (**ICASSP 2026**) — Proposed a feature space decoupling strategy that addresses the segmentation fragmentation problem caused by forced feature coupling. (**Mingda Zhang**, Xun Ye, Ruixiang Tang, Jianglong Qin) [PDF](../paper/2.pdf)
 
 4. ["Multimodal Fusion at Three Tiers: Physics-Driven Data Generation and Vision-Language Guidance for Brain Tumor Segmentation"](../paper/7.pdf) (**Array, JCR Q1**) — Bidirectional interaction between VLM models and deep learning for brain tumor recognition. (**Mingda Zhang**, Kaiwen Pan) [PDF](../paper/7.pdf)
 
@@ -72,6 +72,6 @@ FlowSteer — Interactive Agentic Workflow Orchestration via End-to-End RL.<br>
 
 9. ["A Method for the Architecture of a Medical Vertical Large Language Model Based on Deepseek R1"](../paper/8.pdf) (**CCF-AI-2025**) — Designing a lightweight LLM architecture for the bioinformatics field. (**Mingda Zhang**, Jianglong Qin) [PDF](../paper/8.pdf)
 
-10. ["ELPG-DTFS: Prior-Guided Adaptive Time-Frequency Graph Neural Network for EEG Depression Diagnosis"](../paper/9.pdf) (**ICASSP 2026, CCF-B**) — Modeling EEG dynamic connectivity through channel-band attention, learnable connections and residual prior integration. (Jingru Qiu, Jiale Liang, Xuanhan Fan, **Mingda Zhang**, Zhenli He) [PDF](../paper/9.pdf)
+10. ["ELPG-DTFS: Prior-Guided Adaptive Time-Frequency Graph Neural Network for EEG Depression Diagnosis"](../paper/9.pdf) (**ICASSP 2026**) — Modeling EEG dynamic connectivity through channel-band attention, learnable connections and residual prior integration. (Jingru Qiu, Jiale Liang, Xuanhan Fan, **Mingda Zhang**, Zhenli He) [PDF](../paper/9.pdf)
 
 11. ["A Semantic Segmentation Algorithm for Pleural Effusion Based on DBIF-AUNet"](../paper/10.pdf) (**Computer Technology and Development**) — Semantic segmentation of pleural effusion CT is achieved through dual-domain feature disentanglement and multi-branch interactive attention. (Ruixiang Tang, **Mingda Zhang**, Jianglong Qin, Yan Song, Yi Wu, Wei Wu) [PDF](../paper/10.pdf)
