@@ -27,8 +27,6 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 **Medical Image Analysis & Segmentation**
 
 - Author/co‑author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
-- Dataset: **Privately processed dataset with institutional ethics approval** (IRB/ethics cleared; contains sensitive medical data and cannot be released publicly).  
-  ➤ Access: available to qualified researchers under a data‑use agreement and ethics compliance. *(Contact Me: mingdazhang@ieee.org)*
 
 **Applications of Large Language Models**
 
