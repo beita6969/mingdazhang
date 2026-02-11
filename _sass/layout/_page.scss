@@ -22,7 +22,14 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
-  text-align: justify;
+
+  p {
+    text-align: justify;
+  }
+
+  li {
+    text-align: left;
+  }
 
   .page__inner-wrap {
     @include full();
