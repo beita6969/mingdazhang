@@ -26,7 +26,7 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 
 **Medical Image Analysis & Segmentation**
 
-- Author/co‑author on lung disease recognition in collaboration with **Army Medical University (AMU)**.
+- Author/co‑author on lung disease recognition in collaboration with **Army Medical University (AMU)**, resulting in the paper *"A Semantic Segmentation Algorithm for Pleural Effusion Based on DBIF-AUNet"* and a patent, which have been deployed in clinical practice.
 
 **Applications of Large Language Models**
 
