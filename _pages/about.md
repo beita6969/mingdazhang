@@ -14,8 +14,8 @@ I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.ed
 ## 🎓 Education and Internships
 
 - **Yunnan University**, School of Software — B.Eng. (2022.9 – 2026.6)
-- **China Telecom**, Chongqing Branch — Technical Engineer (2024.7 – 2024.8)
-- **The Chinese University of Hong Kong**, Shenzhen — Research Assistant (2025.10 – 2026.4)
+- **China Telecom**, Chongqing Branch — Technical Engineer (2024.7 – 2024.9)
+- **The Chinese University of Hong Kong**, Shenzhen — Visiting Student (2025.10 – 2026.4)
 
 ## 🔬 Research Highlights
 
