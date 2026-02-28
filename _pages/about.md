@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm **Mingda Zhang**, an undergraduate at the School of Software, Yunnan University (2022.9–2026.6). My research interests include **Multimodal Information Fusion**, **AI Agent & Multi-agent Systems**, and **AI4Science** (Sci, Law, and Bioinformatics), aiming to leverage AI for solving real‑world problems.
+Hello! I'm **Mingda Zhang**, an undergraduate at the School of Software, Yunnan University (2022.9–2026.6). My research interests include **Multimodal Information Fusion**, **AI Agent & Multi-agent Systems**, and **AI4Science** (SCI, Law, and Bioinformatics), aiming to leverage AI for solving real‑world problems.
 
 I'm fortunate to be mentored by **Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/)** (NUAA), **Professor [Jianglong Qin](http://www.sei.ynu.edu.cn/info/1023/1448.htm)** (Software, YNU), and **Professor [Qing Xu](http://www.law.ynu.edu.cn/info/1143/3322.htm)** (Law, YNU), whose guidance has helped me develop a systematic, problem‑driven approach to AI research.
 
